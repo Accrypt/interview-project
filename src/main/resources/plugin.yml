@@ -3,4 +3,11 @@ version: 1
 main: com.minehut.Template
 description: Template
 author: minehut
-api-version: 1.16
+api-version: 1.17
+commands:
+  setarea:
+    description: Set the arena area
+  startgame:
+    description: Start the game
+  savearena:
+    description: Save the current arena
